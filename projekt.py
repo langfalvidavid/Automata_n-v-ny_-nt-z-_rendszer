@@ -4,7 +4,7 @@ from pushbullet import Pushbullet
 
 GPIO.setwarnings(False)
 
-pb = Pushbullet("o.MmSlHyNnHpBbNK60tlqM86GAQdoUd4gF")
+pb = Pushbullet("o.jfjQS8i5omMwbtLVLM6CYbyZvGi56FXB")
 print(pb.devices)
 Szenzor = 40
 Pumpa = 11
